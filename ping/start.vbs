@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\bernard.collin\Desktop\ping\start.bat",0,True
